@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Raghukilli77/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
