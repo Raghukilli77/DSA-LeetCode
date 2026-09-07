@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Raghukilli77/DSA-LeetCode/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
