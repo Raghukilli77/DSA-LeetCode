@@ -11,19 +11,18 @@ public:
     
     void push(int value) {
        s.push(value);
-       if(mins.empty())
+       if(mins.empty() || value <= mins.top())
        {
         mins.push(value);
-       }else
-       {
-        mins.push(min(value,mins.top()));
        }
     }
     
     void pop() {
-        
+        if(s.top() == mins.top())
+        {
+            mins.pop();
+        }
         s.pop();
-        mins.pop();
     }
     
     int top() {
