@@ -6,7 +6,7 @@ public:
        int p =1;
        for(int i=0;i<n;i++)
        {
-        x[i] *= p;
+        x[i] = p;
         p *= nums[i];
        }
        int s =1;
