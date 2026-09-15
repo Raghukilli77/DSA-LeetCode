@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
