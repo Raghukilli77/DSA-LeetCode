@@ -47,7 +47,9 @@ public:
         {
             return -1;
         }
-         return q[(rear+capacity-1)%capacity];
+        //  return q[(rear+capacity-1)%capacity];
+                 return q[(front+size-1)%capacity];
+
     }
     
     bool isEmpty() {
