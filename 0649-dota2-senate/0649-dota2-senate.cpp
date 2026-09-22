@@ -15,13 +15,23 @@ public:
             }
         }
         while(!q1.empty() && !q2.empty()) {
-            int r = q1.front(); q1.pop();
-            int d = q2.front(); q2.pop();
+            int r = q1.front(); 
+            int d = q2.front(); 
 
-            if(r < d) {
-                q1.push(r + s);
-            } else {
-                q2.push(d + s);
+            // if(r < d) {
+            //     q1.push(r + s);
+            // } else {
+            //     q2.push(d + s);
+            // }
+            if(r<d){
+                q2.pop();
+                q1.push(s+r);
+                q1.pop();
+            }
+            else{
+                q1.pop();
+                q2.push(s+d);
+                q2.pop(); 
             }
         }
 
