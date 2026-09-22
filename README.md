@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0649-dota2-senate](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -163,5 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [0649-dota2-senate](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
