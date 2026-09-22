@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
