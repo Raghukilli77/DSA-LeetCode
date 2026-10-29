@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0622-design-circular-queue](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0682-baseball-game](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0724-find-pivot-index/) | Easy |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0682-baseball-game](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Simulation
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0649-dota2-senate](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0649-dota2-senate/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -197,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
