@@ -15,9 +15,9 @@ public:
                 count++;
             }else
             {
-            mx = max(mx,count);
             count =1;
             }
+                        mx = max(mx,count);
         }
         return max(mx, count);
     }
