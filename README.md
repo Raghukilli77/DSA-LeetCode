@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2762-continuous-subarrays](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/2762-continuous-subarrays/) | Medium |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0525-contiguous-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/0268-missing-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Raghukilli77/DSA-LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
